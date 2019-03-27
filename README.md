@@ -19,9 +19,7 @@ mas também para trabalhos que considero que valham a pena ser vistos. Seria usa
 **6 de abril**
 - [ ] Associar redes sociais e meios de contacto
 - [ ] Criaçâo da página de contacto
-- [ ] Criaçâo da página biográfica
 
  **8 de abril**
- - [ ] Colocar música de fundo
- - [ ] Revisão do site
- 
+- [ ] Criaçâo da página biográfica
+- [ ] Revisão do site
